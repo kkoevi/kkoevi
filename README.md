@@ -1,32 +1,23 @@
-# <a href="https://www.linkedin.com/in/koffi-yayrali-marc-koevi/">Koffi Koevi</a>'s IT and Cybersecurity Project Portfolio 🔐
+# Koffi Koevi
 
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
+**Endpoint and network systems engineer | Cybersecurity practitioner**
 
+I support enterprise Windows devices and networks in an education environment and build hands-on security labs to deepen my skills in endpoint engineering, identity, vulnerability management, and detection and response.
 
-## ⚠️ Vulnerability Management Projects
+## What I work with
 
-- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **Endpoint management:** Microsoft Intune, Microsoft Configuration Manager (MECM), Windows imaging, patching, and device compliance
+- **Identity and infrastructure:** Active Directory, Microsoft Entra ID, Group Policy, Windows Server, VMware, and PowerShell
+- **Networking and security:** Cisco Meraki, Fortinet, network troubleshooting, Microsoft Defender, Microsoft Sentinel, and Splunk
 
-## 🚨 Threat Hunting and Security Operations
+## Current lab work
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+I am building a `corp.lab` Windows environment with a domain controller, Windows clients, and a MECM server. My exercises cover Group Policy hardening, Defender attack surface reduction auditing, deployment, and security operations. I plan to publish sanitized documentation and reproducible examples here as those projects are ready.
 
-<hr/>
+I am also pursuing a master's degree in cybersecurity and information assurance. My interests include secure cloud design, threat hunting, and practical security engineering.
 
-## 🤳 Connect With Me
+## Connect
 
-[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+- [LinkedIn](https://www.linkedin.com/in/koffi-yayrali-marc-koevi/)
 
-[twitter]: https://twitter.com/___________
-[youtube]: https://www.youtube.com/c/___________
-[instagram]: https://www.instagram.com/___________
-[linkedin]: https://linkedin.com/in/___________
-
-<!--
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
-<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
--->
+> Lab examples are for learning. Any future screenshots or configurations will omit real organization data, credentials, and private infrastructure details.
